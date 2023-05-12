@@ -1,5 +1,6 @@
 Nombre: Jose Fernández Rodríguez
 Fecha: 12/05/2023
+Curso: Desenvolvemento de aplicacións con tecnoloxía web (IFCD0210 - 2022/002270)
 
 Este proyecto es un CRUD en el cual se nos muestra en el index un listado de los libros.
 Dentro de este listado tenemos las opciones de ver (para ver los detalles individuales del libro), editar y eliminar (por libro).
